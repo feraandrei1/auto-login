@@ -2,6 +2,18 @@
 
 This bot will help you in automatically logging in your account of the desired website or webpage you want. It basically saves time and energy of typing the username and password again and again.
 
+## Installation
+
+Download or git clone this repository :
+
+```bash
+git clone https://github.com/feraandrei1/auto-login
+```
+
+(If you downloaded it unzip it)
+
+Open the folder in VS Code
+
 ## How to use
 
 Enter the website you want to login, your username and your password in the script.py.
